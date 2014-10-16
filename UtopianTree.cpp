@@ -1,7 +1,11 @@
-////////////////////////////////////////////
-// Program Name: Utopian Tree             //
-// Author      : Ganesh Thiagarajan       //
-////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+// Program Name: UtopianTree.cpp                                 //
+// Language    : standard C++                                    //
+// Platform    : Toshiba Satellite Windows 8                     //
+// Application : SuDoKu Puzzle Checker                           //
+// Author      : Ganesh Thiagarajan,                             //
+//               ganesh_vjy@yahoo.com                            //
+///////////////////////////////////////////////////////////////////
 
 #include <iostream>
 using namespace std;
