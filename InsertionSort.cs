@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////
 // Program Name: InsertionSort.cs                                //
-// Language    : standard C++                                    //
+// Language    : C# .Net Framework                               //
 // Platform    : Toshiba Satellite Windows 8                     //
 // Application : Insertion Sort (C# Program)                     //
 // Author      : Ganesh Thiagarajan,                             //
