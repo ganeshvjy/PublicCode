@@ -1,7 +1,11 @@
-/////////////////////////////////////////////////////////////
-// Program Name: Insertion Sort (C# Program)               //
-// Author Name : Ganesh Thiagarajan                        //
-/////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+// Program Name: InsertionSort.cs                                //
+// Language    : standard C++                                    //
+// Platform    : Toshiba Satellite Windows 8                     //
+// Application : Insertion Sort (C# Program)                     //
+// Author      : Ganesh Thiagarajan,                             //
+//               ganesh_vjy@yahoo.com                            //
+///////////////////////////////////////////////////////////////////
 
 
 using System;
