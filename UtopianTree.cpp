@@ -2,7 +2,7 @@
 // Program Name: UtopianTree.cpp                                 //
 // Language    : standard C++                                    //
 // Platform    : Toshiba Satellite Windows 8                     //
-// Application : SuDoKu Puzzle Checker                           //
+// Application : Utopian Tree Generator                          //
 // Author      : Ganesh Thiagarajan,                             //
 //               ganesh_vjy@yahoo.com                            //
 ///////////////////////////////////////////////////////////////////
