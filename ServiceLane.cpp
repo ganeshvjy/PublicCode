@@ -1,7 +1,11 @@
-/////////////////////////////////////////////////
-//  Program Name: Service Lane                 //
-//  Author Name: Ganesh Thiagarajan            //
-/////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+// Program Name: ServiceLane.cpp                                 //
+// Language    : standard C++                                    //
+// Platform    : Toshiba Satellite Windows 8                     //
+// Application : ServiceLane Solver                              //
+// Author      : Ganesh Thiagarajan,                             //
+//               ganesh_vjy@yahoo.com                            //
+///////////////////////////////////////////////////////////////////
 
 #include <cmath>
 #include <cstdio>
