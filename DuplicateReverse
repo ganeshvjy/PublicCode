@@ -1,0 +1,24 @@
+/*
+ *                    STRING MANIPULATION
+ *=================================================================
+ * Program to duplicate the character and reverse the entire string using Recurssion
+ * Input : hello
+ * Output : oolllleehh
+ * Author : Ganesh Thiagarajan
+ */
+
+
+public class HelloWorld{
+    
+    public static void main(String[] args){
+        String s = "hello"; 
+        doubleReverse(s); 
+    }
+
+    public static void duplicateReverse(String str){
+        if(str.length() > 0) {
+            System.out.print(str.charAt(str.length()-1)+str.charAt(str.length()-1));
+            duplicateReverse(str.substring(0, str.length() - 1));
+        }
+    }
+}
